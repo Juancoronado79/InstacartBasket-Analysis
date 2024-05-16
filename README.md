@@ -1,5 +1,5 @@
 # InstacartBasket-Analysis
----
+
 As an analyst at Instacart, I'm delving deep into their sales data to unveil concealed patterns. My objective is to enhance their market segmentation strategies through comprehensive exploratory analysis using Python. Keep an eye out for forthcoming insights that have the potential to reshape their approach and bolster sales even further.
 
 **Instacart Data Analysis Project**
