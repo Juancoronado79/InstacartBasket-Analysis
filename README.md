@@ -34,6 +34,8 @@ Instacart, a leading online grocery platform, is on a quest to fine-tune its mar
 
 ● departments
 
+Note: This data was fabricated and used for the purposes of CareerFoundry Data Analytics coursework. 
+
 **Tools**
 ---
 The analysis was conducted utilizing Python, alongside the utilization of the subsequent libraries:
